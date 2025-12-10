@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
+title: Senior Design Project: Static Thrust Test Rig
+description: Senior Design Project for Design Build Fly Project Team to test Motor-Propeller Configurations
 technologies: [MATLAB, python]
-image: /assets/images/function-graph.png
+image: /assets/images/IMG_3648.jpg
 ---
 
 
