@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Senior Design Project: Static Thrust Test Rig
+title: Senior Design Project Static Thrust Test Rig
 description: Senior Design Project for Design Build Fly Project Team to test Motor-Propeller Configurations
-technologies: [MATLAB, python]
+technologies: [MATLAB, SolidWorks]
 image: /assets/images/IMG_3648.jpg
 ---
 

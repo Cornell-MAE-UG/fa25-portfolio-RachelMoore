@@ -54,7 +54,7 @@ footer {
 }
 
 .container {
-  max-width: 600px;
+  max-width: auto;
 }
 
 .project-item img {
@@ -148,7 +148,7 @@ footer {
 }
 
 .gallery-item {
-  overflow: hidden;
+  // overflow: hidden;
   text-align: center;
   transition: transform 0.3s ease;
   max-width: 250px; 
