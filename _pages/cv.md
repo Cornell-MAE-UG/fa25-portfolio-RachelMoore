@@ -12,15 +12,11 @@ permalink: /cv/
 
 ---
 
-#### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
-
----
-
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical and Aerospace Engineering* 
+  Major: Mechanical Engineering | Minor: Aerospace Engineering 
+  Graduation: May, 2026
 
 - **[High School Name]**  
   *High School Diploma*  
