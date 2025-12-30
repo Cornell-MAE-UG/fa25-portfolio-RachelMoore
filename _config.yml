@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Rachel Moore
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
+name                     : Rachel Moore
+description              : Rachel Moore - Projects and CV 
 url                      : "https://cornell-mae-ug.github.io"
 baseurl                  : "/fa25-portfolio-RachelMoore" # Set this to your repo name 
 
